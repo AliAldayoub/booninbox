@@ -1,0 +1,14 @@
+{
+	"name": "booninbox",
+	"version": "1.0.0",
+	"description": "",
+	"main": "Node.js",
+	"scripts": {
+		"start": "node Node.js"
+	},
+	"author": "Camille Schori",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.18.2"
+	}
+}
